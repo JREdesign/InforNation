@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>InforNation | Tu información sobre paises del mundo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/acercade.css" rel="stylesheet">
+    <link rel="icon" type="image/png" href="images/favicon.svg">
+</head>
+<body>
+    <header>
+        <div class="banner"><img src="images/infornation-logo.svg" alt="logo"></div>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="#"><img id="logo-mini" src="images/logo-mini.svg" alt="logo mini"></a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link" href="index.html">Inicio</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="quiz.html">Proyecto</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="acercade.html">Acerca de</a>
+                        </li>
+                    </ul>
+                    <form class="d-flex" role="search">
+                        <input class="form-control me-2" type="search" placeholder="Buscar..." aria-label="Search">
+                        <button class="btn btn-light btnarriba" type="submit">Buscar</button>
+                    </form>
+                </div>
+            </div>
+        </nav>
+      </header>
+
+      <main>
+        <br>
+        <br>
+        <br>
+        <div class="container">
+            <h1 class="encabezado">Acerca de este proyecto</h1>    
+            <div class="caja">
+                <div class="accordion" id="accordionPanelsStayOpenExample">
+                    <!-- Primer ítem -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
+                                <strong>El proyecto</strong>
+                            </button>
+                        </h2>
+                        <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
+                            <div class="accordion-body">
+                                Esto es un proyecto desarrollado para el bootcamp <strong>Desarrollo Web Full Stack + Tecnologías inmersivas.</strong>
+                                El propósito de esta web es aprender a consumir una API externa para obtener su información y exponerla en tarjetas. Para ello, se ha utilizado
+                                la API REST Countries. <a href="https://restcountries.com">(https://restcountries.com/)</a><br>
+                                La idea era recoger la información de la API y mas tarde traer datos propios obtenidos de un JSON, que finalmente ha sido implementado para hacer el pequeño minijuego del quiz.
+                            </div>
+                        </div>
+                    </div>
+    
+                    <!-- Segundo ítem -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                <strong>Prototipado</strong>
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                He realizado el prototipado con el programa <strong>Balsamiq Mockups</strong>. Este programa nos permite hacer prototipados rápidos con las páginas que tenemos que incluir en el proyecto.<br><br>
+                                <img src="images/index.png" alt="prototipo index">
+                                <img src="images/quiz.png" alt="prototipo quiz">
+                                <img src="images/acerca-de.png" alt="prototipo acerca de">
+                            </div>
+                        </div>
+                    </div>
+    
+                    <!-- Tercer ítem -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                <strong>Diseño</strong>
+                            </button>
+                        </h2>
+                        <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                El diseño final se ha realizado con <strong><a href="https://www.figma.com/proto/wBfKdL2EwCHUiP9T6hSJTb/InforNation?type=design&node-id=2-5&t=ktD6yMdvap5ITRvm-0&scaling=min-zoom&page-id=0%3A1">Figma</a></strong>. Esto permitió definir los aspectos y estilos finales, así como desarrollar el manual de estilo.<br><br>
+                                <img src="images/index-figma.png" alt="diseño index">
+                                <img src="images/quiz-figma.png" alt="diseño quiz">
+                                <img src="images/acercade-figma.png" alt="diseño acercade">
+                                <img src="images/manual-figma.png" alt="diseño manual">
+
+                            </div>
+                        </div>
+                    </div>
+    
+                    <!-- Cuarto ítem (nuevo) -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                <strong>Objetivos</strong>
+                            </button>
+                        </h2>
+                        <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                Respecto a los objetivos concretos son los de la siguiente tabla, siendo obligatorios los blancos y extras los azules. Del conjunto de objetivos se ha llegado al cumplimiento con éxito la mayoría del total de objetivos</strong> en el tiempo establecido.
+                                <table>
+                                    <tr>
+                                      <th>Requisito</th>
+                                      <th>Cumplimiento</th>
+                                    </tr>
+                                    <tr>
+                                      <td>Desarrollar una página web con HTML, CSS, Javascript</td>
+                                      <td class="cumplido"><img src="images/ok.svg"> Cumplido</td>
+                                    </tr>
+                                    <tr>
+                                      <td>Consumir una API externa</td>
+                                      <td class="cumplido"><img src="images/ok.svg"> Cumplido</td>
+                                    </tr>
+                                    <tr>
+                                      <td>Mostrar los datos en tarjetas, tablas, etc</td>
+                                      <td class="cumplido"><img src="images/ok.svg"> Cumplido</td>
+                                    </tr>
+                                    <tr>
+                                      <td>Subir a Github y que esté documentado con su respectivo README</td>
+                                      <td class="cumplido"><img src="images/ok.svg"> Cumplido</td>
+                                    <tr>
+                                      <td>Utilizar Bootstrap o SASS</td>
+                                      <td class="cumplido"><img src="images/ok.svg"> Cumplido</td>
+                                    </tr>
+                                    <tr>
+                                      <td class="extra">Los resultados se paginan</td>
+                                      <td class="cumplido"><img src="images/ok.svg"> Cumplido</td>
+                                    </tr>
+                                    <tr>
+                                      <td class="extra">Ver el detalle de un solo elemento</td>
+                                      <td class="cumplido"><img src="images/ok.svg"> Cumplido</td>
+                                    <tr>
+                                      <td class="extra">Filtrar la información traída por la API</td>
+                                      <td class="cumplido"><img src="images/ok.svg"> Cumplido</td>
+                                    </tr>
+                                    <tr>
+                                      <td class="extra">Hacer Deploy en Github</td>
+                                      <td class="cumplido"><img src="images/ok.svg"> Cumplido</td>
+                                    </tr>
+                                    <tr>
+                                      <td class="extra">Consumir N APIs</td>
+                                      <td class="no-cumplido"><img src="images/wrong.svg"> No cumplido</td>
+                                    </tr>
+                                    <tr>
+                                      <td class="extra">Crear un JSON y consumir la información</td>
+                                      <td class="cumplido"><img src="images/ok.svg"> Cumplido</td>
+                                    </tr>
+                                    <tr>
+                                      <td class="extra">Validar con alguna función de Javascript el funcionamiento de la página (test)</td>
+                                      <td class="no-cumplido"><img src="images/wrong.svg"> No cumplido</td>
+                                    </tr>
+                                  </table>
+                                  
+                            </div>
+                        </div>
+                    </div>
+    
+                    <!-- Quinto ítem (nuevo) -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                <strong>Organización</strong>
+                            </button>
+                        </h2>
+                        <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                La organización para la realización de las tareas ha sido mediante el sistema Kanban y en concreto, con la aplicación de <strong>Trello</strong>. He dividido el tiempo en pequeños sprints de 3 o 4 dias aproximadamente cada uno de ellos.
+                                Se han marcando los objetivos especificados en el briefing de Simplon del Producto Minimo Viable con el mayor grado de importancia marcados en color rojo y el resto de objetivos adicionales en amarillo. esto ha permitido centrarse en las tareas mas importantes.
+                                Además otros objetivos auto impuestos como crear el minijuego, las condiciones de accesibilidad y sostenibilidad, o la creación de la presentación en esta misma sección fueron marcados en azul para distinguirse bien del resto de objetivos obiligatrios. Por ultimo se han puesto un fondo verde
+                                a las tareas ya realizadas para identificar lo que estaba al 100% terminado. <br> Un ejemplo de la organización llevada en una de las etapas:
+                                <img src="images/trello.png" alt="organización en Trello">
+
+
+
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Sexto -->
+
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                                <strong>Herramientas utilizadas</strong>
+                            </button>
+                        </h2>
+                        <div id="collapseSix" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                Durante el desarrollo del proyecto estas han sido las herramientas utilizadas: <br>
+                                <table>
+                                    <tr>
+                                      <th>Herramienta</th>
+                                      <th>Uso</th>
+                                    </tr>
+                                    <tr>
+                                      <td>Trello</td>
+                                      <td>Gestión de proyectos y seguimiento de tareas</td>
+                                    </tr>
+                                    <tr>
+                                      <td>Balsamiq Mockups</td>
+                                      <td>Prototipado inicial</td>
+                                    </tr>
+                                    <tr>
+                                      <td>Figma</td>
+                                      <td>Diseño de interfaces y estilos</td>
+                                    </tr>
+                                    <tr>
+                                      <td>Photoshop</td>
+                                      <td>Diseño y retoque de imágenes</td>
+                                    </tr>
+                                    <tr>
+                                      <td>Illustrator</td>
+                                      <td>Retoque de imágenes SVG</td>
+                                    </tr>
+                                    <tr>
+                                      <td>Visual Studio Code</td>
+                                      <td>Entorno de desarrollo</td>
+                                    </tr>
+                                    <tr>
+                                      <td>Bootstrap 5</td>
+                                      <td>Framework de CSS para diseño responsivo</td>
+                                    </tr>
+                                    <tr>
+                                      <td>HTML5</td>
+                                      <td>Estructura y contenido de la web</td>
+                                    </tr>
+                                    <tr>
+                                      <td>CSS3</td>
+                                      <td>Estilos visuales</td>
+                                    </tr>
+                                    <tr>
+                                      <td>JavaScript</td>
+                                      <td>Lógica y funcionalidades de la aplicación</td>
+                                    </tr>
+                                  </table>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Sepimo -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                                <strong>Accesibilidad y rendimiento</strong>
+                            </button>
+                        </h2>
+                        <div id="collapseSeven" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                Para cumplir con los estándares de la W3C, se han pasado los siguientes validadores y cuya información ha servido para modificar la web en consonacia y de esta manera alcanzar un mayor
+                                grado de accesibilidad y rendimiento:<br><br>
+
+                                <strong>Validador de la W3C</strong> <a href="https://validator.w3.org/">(https://validator.w3.org/)</a><br>
+                                <img src="images/accesibilidad1.png" alt="w3c report"> <br><br><br><br>
+                                <strong>Validador Tawdis</strong> <a href="https://validator.w3.org/">https://www.tawdis.net/</a><br>
+                                <img src="images/accesibilidad2.png" alt="tawdis report"> <br><br><br><br>
+                                <strong>Lighthouse</strong> (Inspector de elementos)<br>
+                                <img class="verticales" src="images/accesibilidad3.png" alt="lighthouse report"><br><br><br><br>
+                                <strong>Validador de contraste</strong> <a href="https://webaim.org/resources/contrastchecker/">https://webaim.org/resources/contrastchecker/</a><br>
+                                <img class="verticales" src="images/accesibilidad4-1.png" alt="contrast report"><br>
+                                <img class="verticales"  src="images/accesibilidad4-2.png" alt="contrast report"><br>
+                                <img class="verticales"  src="images/accesibilidad4-3.png" alt="contrast report"><br><br>
+
+                                Aunque en alguno nos marca algun problema menor, podemos comprobar que la web se adapta perfectamente en su mayoría a los estándares AA determinados por la W3C para la categoría AA.
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Octavo-->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+                                <strong>Sostenibilidad</strong>
+                            </button>
+                        </h2>
+                        <div id="collapseEight" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                Como no podía ser de otra manera, hemos hecho uso de las llamadas 'Green Skills' y se han usado varias de las técnicas de sostenibilidad en el código posibles para tener una web mas sostenible, como varias 
+                                calculadoras de carbono y de impacto ambiental, después se han implementado las siguientes intervenciones al código:<br><br>
+                                <ul>
+                                    <li>
+                                        <strong>Optimización de imágenes:</strong> Se ha reducido y optimizado la compresión de las imágenes utilizadas para que sea mas eficiente. Además se ha procurado en todo lo posible utilizar imágenes .SVG vectoriales
+                                        para que la carga de información sea menor. Esto nos permite mayor rapidez en su carga y a la vez consumir menos recursos energéticos.
+                                    </li>
+                                    <br>
+                                    <li>
+                                        <strong>Optimización de código:</strong> Se ha procurado implementar un código eficiente evitando duplicidades en el mismo mediante la modularización y reutilización de funciones y componentes. 
+                                        Esto ha permitido optimizar el rendimiento del sitio web al reducir la cantidad de código repetitivo, mejorando la mantenibilidad y facilitando futuras actualizaciones y modificaciones de manera más ágil y eficaz.
+                                    </li>
+                                    <br>
+                                    <li>
+                                        <strong>Diseño responsive:</strong> La implementación de un sistema responsivo no solo asegura una experiencia consistente para los usuarios en diferentes dispositivos, sino que también contribuye a la eficiencia energética y la sostenibilidad.
+                                         Al adaptarse de forma óptima a distintos tamaños de pantalla, nuestra web reduce la carga en los dispositivos móviles y equipos de escritorio, optimizando así el consumo de energía de los usuarios. Esta eficiencia energética no solo mejora la experiencia 
+                                         del usuario al reducir el consumo de recursos de sus dispositivos, sino que también refleja el compromiso con la sostenibilidad al minimizar el impacto ambiental asociado al uso excesivo de energía en la navegación web.
+                                    </li>
+                                </ul>    
+                                <br>
+                                Desupués de estas implementaciones se han vuelto a utilizar las calculadoras de huella de carbono, arrojando buenos resultados a cuanto a sostenibilidad:
+                                <br><br>
+                                    <ul>
+                                        <li>
+                                        <strong>Website Carbon Calculator</strong> <a href="https://www.websitecarbon.com/">(https://www.websitecarbon.com/)</a><br>
+                                        <img src="images/carbon-report1.png" alt="cacluladora carbono 1"> <br><br><br><br>
+                                        <strong>Digital Beacon</strong> <a href="https://digitalbeacon.co/">(https://digitalbeacon.co/)</a><br>
+                                        <img src="images/carbon-report2.png" alt="cacluladora carbono 2"> <br><br><br><br>
+                                        <strong>Green Pixie</strong> <a href="https://digitalbeacon.co/">(https://digitalbeacon.co/)</a><br>
+                                        <img src="images/carbon-report3.png" alt="cacluladora carbono 3"> <br><br><br><br>
+
+
+                                        </li>
+                                    </ul>
+                                </ul>    
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Sepimo -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+                                <strong>Autor</strong>
+                            </button>
+                        </h2>
+                        <div id="collapseNine" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                Creado por [JREdesign] <a href="https://github.com/JREdesign">(https://github.com/JREdesign)</a><br><br>  
+
+                                Proyecto: <a href="https://github.com/JREdesign">https://github.com/JREdesign/InforNation</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    
+                </div>
+            </div>
+        </div>
+    </main>
+    
+     <!-------------------MODAL PARA EVENTO DE CURIOSIDADES---------------------------------------->
+  <div class="modal fade" id="infoModal" tabindex="-1" aria-labelledby="infoModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="infoModalLabel">¿Sabías que...?</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body" id="infoContent">
+          <!-- Aquí se mostrará la información del país y la curiosidad -->
+        </div>
+      </div>
+    </div>
+  </div>
+   <!-------------------MODAL PARA EVENTO DE CURIOSIDADES---------------------------------------->
+
+
+    <footer class="footer">
+        <div class="terms">
+          <p class="small-text">Sitio creado con carácter didáctico. <a href="https://github.com/JREdesign/InforNation">[GitHub: https://github.com/JREdesign/InforNation]</a></p>
+          <a href="#">Términos de uso</a> |
+          <a href="#">Política de privacidad</a> |
+          <a href="#">Aviso legal</a>
+        </div>
+        <div class="social-icons">
+          <a href="#"><img src="images/facebook.png" alt="Facebook"></a>
+          <a href="#"><img src="images/twitter.png" alt="Twitter"></a>
+          <a href="#"><img src="images/instagram.png" alt="Instagram"></a>
+        </div>
+      </footer>
+      
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+      <script src="js/acercade.js"></script>
+      <script src="js/btn-curiosidades.js"></script>
+</body>
+</html>

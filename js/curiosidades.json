@@ -1,0 +1,135 @@
+{
+    "paises": {
+      "Estados Unidos": {
+        "curiosidad_1": "El alfabeto estadounidense ('ABC') no siempre estuvo en ese orden. En el siglo XIX, fue reorganizado varias veces.",
+        "curiosidad_2": "En los Estados Unidos, se vende más pizza los días martes que cualquier otro día de la semana.",
+        "curiosidad_3": "El río Mississippi es el más largo de los Estados Unidos y es conocido por su importancia económica e histórica."
+      },
+      "Japón": {
+        "curiosidad_1": "En Japón, hay más de 1,5 millones de máquinas expendedoras que venden desde refrescos hasta alimentos frescos e incluso ropa interior usada.",
+        "curiosidad_2": "El Monte Fuji es un símbolo icónico de Japón y también es considerado un lugar sagrado.",
+        "curiosidad_3": "En Japón, el saludo común es el 'bow' (inclinación) en lugar de un apretón de manos."
+      },
+      "Italia": {
+        "curiosidad_1": "Italia es el hogar de la Universidad más antigua del mundo occidental, la Universidad de Bolonia, fundada en 1088.",
+        "curiosidad_2": "El Coliseo Romano en Roma es una de las siete maravillas del mundo moderno.",
+        "curiosidad_3": "El alfabeto italiano tiene solo 21 letras, excluyendo j, k, w, x, y."
+      },
+      "Australia": {
+        "curiosidad_1": "Australia es el único país que es también un continente, rodeado por el Océano Índico y el Pacífico.",
+        "curiosidad_2": "La Gran Barrera de Coral en Australia es el sistema de arrecifes más grande del mundo y es visible desde el espacio.",
+        "curiosidad_3": "Más del 80% de las especies de plantas y animales en Australia no se encuentran en ningún otro lugar del mundo."
+      },
+      "China": {
+        "curiosidad_1": "En China, hay una Gran Muralla que se extiende por más de 21,196 kilómetros.",
+        "curiosidad_2": "Es tradición entregar sobres rojos con dinero en efectivo durante el Año Nuevo Chino.",
+        "curiosidad_3": "China es el país más poblado del mundo, con más de mil millones de habitantes."
+      },
+      "Brasil": {
+        "curiosidad_1": "En Brasil, se encuentra el río Amazonas, el más largo y caudaloso del mundo.",
+        "curiosidad_2": "Brasil es el país más grande de América del Sur.",
+        "curiosidad_3": "El carnaval de Río de Janeiro es uno de los más grandes y famosos del mundo."
+      },
+      "India": {
+        "curiosidad_1": "En India, se celebra el festival de Holi, conocido como el festival de los colores.",
+        "curiosidad_2": "India es el séptimo país más grande del mundo por área terrestre.",
+        "curiosidad_3": "El Taj Mahal, ubicado en India, es un famoso monumento que es considerado una de las nuevas siete maravillas del mundo."
+      },
+      "Canadá": {
+        "curiosidad_1": "Canadá tiene la costa más larga de cualquier país: aproximadamente 202,080 kilómetros.",
+        "curiosidad_2": "En Canadá, hay más lagos que en cualquier otro país del mundo.",
+        "curiosidad_3": "El nombre 'Canadá' proviene de la palabra iroquesa 'kanata', que significa 'poblado' o 'asentamiento'."
+      },
+      "Alemania": {
+        "curiosidad_1": "En Alemania, existen más de 1,300 tipos diferentes de salchichas.",
+        "curiosidad_2": "La primera imprenta fue inventada en Alemania por Johannes Gutenberg en el siglo XV.",
+        "curiosidad_3": "Berlín, la capital de Alemania, tiene más puentes que Venecia en Italia."
+      },
+      "Francia": {
+        "curiosidad_1": "En Francia, es ilegal llamar Napoleón a un cerdo.",
+        "curiosidad_2": "La Torre Eiffel en París fue construida en 1889 para la Exposición Universal y fue inicialmente criticada por su aspecto.",
+        "curiosidad_3": "En Francia, se come más queso que en cualquier otro país del mundo."
+      },
+      "Reino Unido": {
+        "curiosidad_1": "El Big Ben en Londres no es el reloj, es la campana dentro del reloj.",
+        "curiosidad_2": "En el Reino Unido, se conduce por el lado izquierdo de la carretera.",
+        "curiosidad_3": "El inglés no es el idioma oficial de todo el Reino Unido; en Gales, el galés también es oficial."
+      },
+      "Rusia": {
+        "curiosidad_1": "En Rusia, hay un lago llamado 'Baikal' que contiene alrededor del 20% del agua dulce no congelada del mundo.",
+        "curiosidad_2": "Rusia tiene 11 husos horarios diferentes.",
+        "curiosidad_3": "La Plaza Roja en Moscú es uno de los lugares más famosos de Rusia."
+      },
+      "España": {
+        "curiosidad_1": "España es el segundo país con más sitios declarados Patrimonio de la Humanidad por la UNESCO.",
+        "curiosidad_2": "La Tomatina en Buñol, Valencia, es una famosa batalla de tomates que se celebra anualmente en España.",
+        "curiosidad_3": "En España, la siesta es una tradición que consiste en una breve siesta después del almuerzo."
+      },
+      "México": {
+        "curiosidad_1": "En México, la bebida nacional es el tequila.",
+        "curiosidad_2": "México es el país donde se originó el chocolate.",
+        "curiosidad_3": "El Día de los Muertos es una festividad importante en México que celebra a los difuntos."
+      },
+      "Sudáfrica": {
+        "curiosidad_1": "En Sudáfrica, hay una planta llamada 'Welwitschia' que puede vivir hasta 2000 años.",
+        "curiosidad_2": "Sudáfrica tiene 11 idiomas oficiales reconocidos en su constitución.",
+        "curiosidad_3": "En Sudáfrica, la diversidad cultural se refleja en su cocina, que incluye 'braai' (barbacoa) y 'bobotie' (plato de carne picada con huevo)."
+        },
+        "Argentina": {
+        "curiosidad_1": "El tango se originó en Argentina, especialmente en los barrios pobres de Buenos Aires en el siglo XIX.",
+        "curiosidad_2": "Argentina es el país más grande de habla hispana.",
+        "curiosidad_3": "En Argentina, se consume más carne per cápita que en cualquier otro lugar del mundo."
+        },
+        "Egipto": {
+        "curiosidad_1": "Las pirámides de Egipto son algunas de las estructuras más antiguas que existen y son famosas en todo el mundo.",
+        "curiosidad_2": "El río Nilo, que fluye a través de Egipto, es uno de los ríos más largos del mundo.",
+        "curiosidad_3": "En Egipto, el juego de mesa 'Senet' era popular y se consideraba un pasaje al más allá."
+        },
+        "Grecia": {
+        "curiosidad_1": "Grecia es conocida como la cuna de la civilización occidental y la democracia.",
+        "curiosidad_2": "El Monte Olimpo, en Grecia, es la montaña más alta del país y en la mitología griega era considerado el hogar de los dioses.",
+        "curiosidad_3": "En Grecia, se celebraban los Juegos Olímpicos antiguos en honor a Zeus cada cuatro años."
+        },
+        "Suecia": {
+        "curiosidad_1": "En Suecia, se encuentra el Icehotel, un hotel que se construye con hielo y nieve y se derrite cada primavera.",
+        "curiosidad_2": "Suecia es el hogar del festival de música pop 'Melodifestivalen', que se utiliza para seleccionar la entrada de Suecia para el Festival de la Canción de Eurovisión.",
+        "curiosidad_3": "El famoso fabricante de muebles IKEA se fundó en Suecia."
+        },
+        "Turquía": {
+        "curiosidad_1": "En Turquía, se encuentra la ciudad de Estambul, que es la única ciudad en el mundo que se encuentra en dos continentes: Asia y Europa.",
+        "curiosidad_2": "El café turco es famoso en todo el mundo por su forma única de preparación y su sabor.",
+        "curiosidad_3": "En Turquía, se encuentra el sitio histórico de Troya, famoso por la guerra descrita en la 'Ilíada' de Homero."
+        },
+        "Corea del Sur": {
+        "curiosidad_1": "La tecnología es un aspecto importante en Corea del Sur, siendo el hogar de empresas como Samsung y LG.",
+        "curiosidad_2": "En Corea del Sur, el kimchi es un plato tradicional y básico que consiste en verduras fermentadas.",
+        "curiosidad_3": "Los juegos competitivos de eSports son muy populares en Corea del Sur."
+        },
+        "Nueva Zelanda": {
+        "curiosidad_1": "Nueva Zelanda es conocida por su belleza natural, que incluye fiordos, montañas y playas impresionantes.",
+        "curiosidad_2": "En Nueva Zelanda, se rodaron las películas de 'El Señor de los Anillos' y 'El Hobbit' de Peter Jackson.",
+        "curiosidad_3": "Los maoríes son el pueblo indígena de Nueva Zelanda y tienen una rica cultura y tradiciones."
+        },
+        "Noruega": {
+        "curiosidad_1": "En Noruega, se encuentra el fiordo más largo del mundo, el Sognefjord.",
+        "curiosidad_2": "El salmón noruego es famoso por su calidad y sabor en todo el mundo.",
+        "curiosidad_3": "La aurora boreal es visible en ciertas partes de Noruega durante ciertos períodos del año."
+        },
+        "Arabia Saudita": {
+        "curiosidad_1": "En Arabia Saudita, se encuentra la Meca, el lugar más sagrado del Islam.",
+        "curiosidad_2": "El petróleo es una parte crucial de la economía de Arabia Saudita, ya que posee una de las mayores reservas de petróleo del mundo.",
+        "curiosidad_3": "Arabia Saudita prohíbe la entrada de no musulmanes a la ciudad de La Meca y Medina."
+        },
+        "Países Bajos": {
+        "curiosidad_1": "En los Países Bajos, más del 25% del país está por debajo del nivel del mar.",
+        "curiosidad_2": "Los molinos de viento son un símbolo icónico de los Países Bajos y se utilizan para drenar el agua de las tierras bajas.",
+        "curiosidad_3": "Los tulipanes son muy populares en los Países Bajos, y el país es uno de los mayores exportadores de flores del mundo."
+        },
+        "Suiza": {
+        "curiosidad_1": "En Suiza, está prohibido tirar basura después de las 10 PM.",
+        "curiosidad_2": "Suiza es famosa por sus relojes precisos y de alta calidad.",
+        "curiosidad_3": "El chocolate suizo es reconocido mundialmente por su sabor y calidad."
+        }
+      }
+    }
+  

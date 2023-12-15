@@ -1,0 +1,131 @@
+    /* Estilos adicionales index*/
+    body {
+      margin: 0;
+      padding: 0;
+      background-image: url('../images/banderas-trans.png');
+      background-size: cover; 
+      background-attachment: fixed; 
+      text-align: center;
+      }
+    .card {
+        margin-bottom: 20px;
+      }
+      .card img {
+        max-width: 100%;
+        height: 200px; /* Altura máxima de la imagen para mantener uniformidad */
+        object-fit: cover; /* Ajustar imagen sin distorsionar */
+      }
+
+    /*Navbar y Footer*/
+    .container-fluid{
+        background-color: rgb(60, 140, 143);
+        padding: 15px;
+    }
+    .nav-link{
+        color:antiquewhite;
+        margin: 0 0 0 20px;
+    }
+    .nav-item{
+        display:flex;
+        flex-direction: row;
+    }
+    .navbar{
+      padding-top: 0px;
+      padding-bottom: 0px;
+    }
+    .navbar-brand{
+        color: white;
+        margin: 0 0 0 100px;
+    }
+    .navbar-toggler-icon{
+        color:antiquewhite;
+    }
+    .banner{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 100%;
+      height: 100%;
+      background-color: #125065; 
+      /*background-image: url('../images/banner.jpg');*/
+    }
+      .banner img{
+      width: 100%;
+      height: 250px;
+      max-width: 100%;
+    }
+    #logo-mini{
+      width: 50px;
+      height: 50px;
+    }
+    .btnarr
+    .btnarriba{
+      margin: 0 20px 0 0;
+    }
+    .footer {
+      bottom: 0;
+      width: 100%;
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 20px 0;
+    }
+    
+    .footer a {
+      color: white;
+      text-decoration: none;
+      margin: 0 10px;
+    }
+    
+    .small-text {
+      font-size: 12px; /* Tamaño de letra más pequeño */
+      margin-bottom: 10px; /* Espacio entre el texto pequeño y los términos */
+    }
+    .small-text a{
+      margin: 0;
+      color: #b3e0ff;
+    }
+    
+    .disclaimer-text {
+      font-size: 12px; /* Tamaño de letra más pequeño */
+    }
+    
+    .social-icons {
+      margin: 15px 0 0 0;
+    }
+
+    /*Estilo del Quiz*/
+
+    h1 {
+      color: #333;
+    }
+    main{
+      justify-content: center;
+    }
+    
+    .game-container {
+      margin: 0 auto;
+      max-width: 600px;
+    }
+    
+    #flag {
+      width: 300px;
+      height: 170px;
+      margin-bottom: 20px;
+    }
+    
+    .options button {
+      margin: 5px;
+      padding: 10px 20px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+    
+    #result {
+      font-weight: bold;
+    }
+    .center-btn {
+      display: block;
+      margin: 0 auto;
+      text-align: center;
+    }

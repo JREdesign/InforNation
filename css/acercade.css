@@ -1,0 +1,163 @@
+    /* Estilos adicionales index*/
+    body {
+      margin: 0;
+      padding: 0;
+      background-image: url('../images/banderas-trans.png');
+      background-size: cover; /* La imagen se ajustará para cubrir todo el fondo */
+      background-attachment: fixed; /* La imagen de fondo estará fija */
+      }
+    .card {
+        margin-bottom: 20px;
+      }
+      .card img {
+        max-width: 100%;
+        height: 200px; /* Altura máxima de la imagen para mantener uniformidad */
+        object-fit: cover; /* Ajustar imagen sin distorsionar */
+      }
+
+    /*Navbar y Footer*/
+    .container-fluid{
+        background-color: rgb(60, 140, 143);
+        padding: 15px;
+    }
+    .nav-link{
+        color:antiquewhite;
+        margin: 0 0 0 20px;
+    }
+    .nav-item{
+        display:flex;
+        flex-direction: row;
+    }
+    .navbar{
+      padding-top: 0px;
+      padding-bottom: 0px;
+    }
+    .navbar-brand{
+        color: white;
+        margin: 0 0 0 100px;
+    }
+    .navbar-toggler-icon{
+        color:antiquewhite;
+    }
+    .banner{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 100%;
+      height: 100%;
+      background-color: #125065; 
+      /*background-image: url('../images/banner.jpg');*/
+    }
+    .banner img{
+      width: 100%;
+      height: 250px;
+      max-width: 100%;
+    }
+    #logo-mini{
+      width: 50px;
+      height: 50px;
+    }
+    .btnarr
+    .btnarriba{
+      margin: 0 20px 0 0;
+    }
+    .encabezado{
+      display: flex;
+      justify-content: center;
+    }
+    .caja{
+      display: inline-block;
+      background-color: whitesmoke;
+      margin: 50px 100px;
+      box-sizing: border-box;
+      padding: 15px;
+      border-radius: 15px;
+    }
+    .caja img{
+      margin-left: 16%;
+      margin-bottom: 16px;
+      margin-top: 16px;
+      width: 70%;
+    }
+    .verticales{
+      max-width: 40%;
+      margin-left: 27% !important; 
+
+    }
+    table {
+      width: 80%;
+      margin: 20px auto;
+      border-collapse: collapse;
+    }
+    table img {
+      max-width: 20px; /* Ancho máximo de las imágenes */
+      max-height: 200px; /* Altura máxima de las imágenes */
+    }
+    th, td {
+      border: 1px solid #ccc;
+      padding: 8px;
+      text-align: center;
+    }
+    .cumplido {
+      background-color: #b9e6b9; /* Verde pastel */
+    }
+
+    .no-cumplido {
+      background-color: #ffb3b3; /* Rojo pastel */
+    }
+    .extra {
+      background-color: #b3e0ff; /* Azul claro para los extras */
+    }
+    .footer {
+      bottom: 0;
+      width: 100%;
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 20px 0;
+    }
+    
+    .footer a {
+      color: white;
+      text-decoration: none;
+      margin: 0 10px;
+    }
+    
+    .small-text {
+      font-size: 12px; /* Tamaño de letra más pequeño */
+      margin-bottom: 10px; /* Espacio entre el texto pequeño y los términos */
+    }
+    .small-text a{
+      margin: 0;
+      color: #b3e0ff;
+    }
+    
+    .disclaimer-text {
+      font-size: 12px; /* Tamaño de letra más pequeño */
+    }
+    
+    .social-icons {
+      margin: 15px 0 0 0;
+    }
+    
+
+    /* Agrega estilos para la capa de fondo negro transparente */
+    .overlay {
+      display: none;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0, 0, 0, 0.7); /* Fondo negro transparente */
+      justify-content: center;
+      align-items: center;
+      z-index: 9999;
+    }
+
+    /* Estilos para las imágenes ampliadas */
+    .ampliada {
+      max-width: 90%; /* Ajustar el ancho máximo de la imagen ampliada */
+      max-height: 90vh; /* Ajustar la altura máxima de la imagen ampliada */
+      cursor: pointer; /* Cambiar el cursor al pasar por encima */
+    }

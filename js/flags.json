@@ -1,0 +1,329 @@
+[
+  {
+      "name": "España",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Bandera_de_Espa%C3%B1a.svg",
+      "options": ["Marruecos", "España", "Colombia"]
+  },
+  {
+      "name": "Francia",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%29.svg",
+      "options": ["Francia", "Italia", "Rumania"]
+  },
+  {
+      "name": "Lesoto",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Flag_of_Lesotho.svg",
+      "options": ["Lesoto", "Malaui", "Eswatini"]
+  },
+  {
+      "name": "Mongolia",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Mongolia.svg",
+      "options": ["Mongolia", "Tíbet", "Corea del Norte"]
+  },
+  {
+      "name": "Kiribati",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kiribati.svg",
+      "options": ["Kiribati", "Tuvalu", "Islas Marshall"]
+  },
+  {
+      "name": "Japón",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg",
+      "options": ["Japón", "China", "Corea del Sur"]
+  },
+  {
+      "name": "Guatemala",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
+      "options": ["Guatemala", "El Salvador", "Honduras"]
+  },
+  {
+      "name": "Angola",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Angola.svg",
+      "options": ["Angola", "Mozambique", "Namibia"]
+  },
+  {
+      "name": "Hungría",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg",
+      "options": ["Hungría", "Eslovaquia", "Austria"]
+  },
+  {
+      "name": "Sri Lanka",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg",
+      "options": ["Sri Lanka", "Maldivas", "India"]
+  },
+  {
+      "name": "Nigeria",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg",
+      "options": ["Nigeria", "Camerún", "Ghana"]
+  },
+  {
+      "name": "Finlandia",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg",
+      "options": ["Finlandia", "Suecia", "Noruega"]
+  },
+  {
+      "name": "Papúa Nueva Guinea",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Flag_of_Papua_New_Guinea.svg",
+      "options": ["Papúa Nueva Guinea", "Islas Salomón", "Fiyi"]
+  },
+  {
+      "name": "Uruguay",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+      "options": ["Uruguay", "Paraguay", "Argentina"]
+  },
+  {
+      "name": "Egipto",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+      "options": ["Egipto", "Sudán", "Libia"]
+  },
+  {
+      "name": "República Checa",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg",
+      "options": ["República Checa", "Eslovenia", "Croacia"]
+  },
+  {
+      "name": "Kenia",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg",
+      "options": ["Kenia", "Uganda", "Tanzania"]
+  },
+  {
+      "name": "Nueva Zelanda",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
+      "options": ["Nueva Zelanda", "Australia", "Samoa"]
+  },
+  {
+      "name": "México",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg",
+      "options": ["México", "Costa Rica", "Panamá"]
+  },
+  {
+      "name": "Suiza",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg",
+      "options": ["Suiza", "Liechtenstein", "Austria"]
+  },
+  {
+      "name": "Singapur",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg",
+      "options": ["Singapur", "Malasia", "Brunéi"]
+  },
+  {
+      "name": "Irlanda",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg",
+      "options": ["Irlanda", "Escocia", "Gales"]
+  },
+  {
+      "name": "Chad",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
+      "options": ["Chad", "Níger", "Malí"]
+  },
+  {
+      "name": "Serbia",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg",
+      "options": ["Serbia", "Croacia", "Bosnia y Herzegovina"]
+  },
+  {
+      "name": "Bahamas",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
+      "options": ["Bahamas", "Barbados", "Jamaica"]
+  },
+  {
+      "name": "Yemen",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
+      "options": ["Yemen", "Omán", "Arabia Saudita"]
+  },
+  {
+      "name": "Lituania",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg",
+      "options": ["Lituania", "Letonia", "Estonia"]
+  },
+  {
+      "name": "Zimbabwe",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg",
+      "options": ["Zimbabwe", "Zambia", "Mozambique"]
+  },
+  {
+      "name": "Grecia",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg",
+      "options": ["Grecia", "Chipre", "Albania"]
+  },
+  {
+      "name": "Costa de Marfil",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg",
+      "options": ["Costa de Marfil", "Ghana", "Liberia"]
+  },
+  {
+      "name": "Tailandia",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg",
+      "options": ["Tailandia", "Vietnam", "Laos"]
+  },
+  {
+      "name": "Iraq",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Iraq.svg",
+      "options": ["Iraq", "Irán", "Siria"]
+  },
+  {
+      "name": "Dinamarca",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg",
+      "options": ["Dinamarca", "Suecia", "Noruega"]
+  },
+  {
+      "name": "Afganistán",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg",
+      "options": ["Afganistán", "Pakistán", "Tayikistán"]
+  },
+  {
+      "name": "Ecuador",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
+      "options": ["Ecuador", "Venezuela", "Colombia"]
+  },
+  {
+      "name": "Bangladés",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg",
+      "options": ["Pakistán", "India"]
+  },
+  {
+      "name": "Barbados",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Barbados.svg",
+      "options": ["Granada", "Santa Lucía", "Barbados"]
+  },
+  {
+    "name": "Belice",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Flag_of_Belize.svg",
+    "options": ["Guatemala","Belice", "Honduras"]
+},
+
+{
+    "name": "Benín",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg",
+    "options": ["Benín", "Nigeria", "Togo"]
+},
+{
+    "name": "Bielorrusia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg",
+    "options": ["Bielorrusia", "Ucrania", "Lituania"]
+},
+{
+    "name": "Bolivia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Bolivia.svg",
+    "options": ["Bolivia", "Perú", "Chile"]
+},
+{
+    "name": "Botsuana",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_Botswana.svg",
+    "options": ["Namibia", "Botsuana", "Zimbabue"]
+},
+{
+    "name": "Brunei",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Brunei.svg",
+    "options": ["Brunei", "Indonesia", "Malasia"]
+},
+{
+    "name": "Burkina Faso",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+    "options": ["Costa de Marfil", "Burkina Faso", "Níger"]
+},
+{
+    "name": "Burundi",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Flag_of_Burundi.svg",
+    "options": ["Tanzania", "Burundi", "Ruanda"]
+},
+{
+    "name": "Cabo Verde",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Cape_Verde.svg",
+    "options": ["Santo Tomé y Príncipe", "Cabo Verde", "Guinea-Bisáu"]
+},
+{
+    "name": "Camboya",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_Cambodia.svg",
+    "options": ["Vietnam", "Camboya", "Laos"]
+},
+{
+    "name": "Camerún",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg",
+    "options": ["Gabón", "Camerún", "Nigeria"]
+},
+{
+    "name": "Canadá",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg",
+    "options": ["Estados Unidos", "Canadá", "México"]
+},
+{
+    "name": "Catar",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg",
+    "options": ["Arabia Saudita", "Emiratos Árabes Unidos", "Catar"]
+},
+{
+    "name": "Chile",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg",
+    "options": ["Argentina", "Chile", "Perú"]
+},
+{
+    "name": "Chipre",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+    "options": ["Grecia", "Chipre", "Turquía"]
+},
+{
+    "name": "Colombia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
+    "options": ["Ecuador", "Colombia", "Venezuela"]
+},
+{
+    "name": "Comoras",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Flag_of_the_Comoros.svg",
+    "options": ["Mauricio", "Comoras", "Seychelles"]
+},
+{
+    "name": "Congo",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg",
+    "options": ["Gabón", "Congo", "Nigeria"]
+},
+{
+    "name": "Corea del Norte",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Flag_of_North_Korea.svg",
+    "options": ["Corea del Sur", "Corea del Norte", "Japón"]
+},
+{
+    "name": "Corea del Sur",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
+    "options": ["Japón", "Corea del Sur", "Corea del Norte"]
+},
+{
+    "name": "Costa Rica",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+    "options": ["Nicaragua", "Costa Rica", "Panamá"]
+},
+{
+    "name": "Croacia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
+    "options": ["Bosnia y Herzegovina", "Croacia", "Eslovenia"]
+},
+{
+    "name": "Cuba",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg",
+    "options": ["Haití", "Cuba", "Jamaica"]
+},
+{
+    "name": "Dominica",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Flag_of_Dominica.svg",
+    "options": ["Granada", "Dominica", "Santa Lucía"]
+},
+{
+    "name": "Venezuela",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg",
+    "options": ["Colombia", "Ecuador", "Venezuela"]
+},
+{
+    "name": "El Salvador",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+    "options": ["Guatemala", "El Salvador", "Honduras"]
+},
+{
+  "name": "Argentina",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg",
+  "options": ["Argentina", "Uruguay", "Honduras"]
+},
+{
+    "name": "Marruecos",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg",
+    "options": ["Marruecos", "Argelia", "Tunez"]
+  }
+
+]
