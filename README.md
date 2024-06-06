@@ -46,7 +46,7 @@ El stack tecnológico y herramientas utilizadas:
 
 ## 🔎 Análisis del código en detalle
 
-https://rich-termite-16a.notion.site/InforNation-Explicaci-n-del-c-digo-79316875fe3745ed9eda4e2b4a6f6d48
+https://jre-design.notion.site/InforNation-An-lisis-del-c-digo-79316875fe3745ed9eda4e2b4a6f6d48
 
 
 
